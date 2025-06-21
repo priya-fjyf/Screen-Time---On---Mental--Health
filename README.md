@@ -16,12 +16,9 @@ This project explores the correlation between screen time and mental health indi
 - Physical activity level
 
 ## 🧠 Applied Machine Learning Algorithms
-- Linear Regression
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
+- Logistic Regression(91%)
+- Random Forest(90%)
+
 
 ## 📈 Key Results
 - Visualizations of screen time vs. mood score
